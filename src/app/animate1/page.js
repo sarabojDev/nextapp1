@@ -57,7 +57,7 @@ const Animate1 = () => {
 
             <button className='bg-green-400 text-white p-2' onClick={() => getDATA()}>Reload</button>
             {isLoading ? (<>
-                <div>Loadinggg</div>
+                <div>Loadinggg - Changed</div>
             </>) : (
                 <>
 
