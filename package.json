@@ -9,15 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.8",
+    "@mui/material": "^5.15.7",
+    "@mui/x-date-pickers": "^6.19.3",
+    "ag-grid-react": "^31.0.3",
+    "date-fns": "^3.3.1",
+    "framer-motion": "^11.0.3",
+    "material-react-table": "^2.11.1",
+    "next": "14.1.0",
+    "rc-tabs": "^14.0.0",
     "react": "^18",
+    "react-countup": "^6.5.0",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "react-flip-numbers": "^3.0.8",
+    "react-paginate": "^8.2.0",
+    "react-swipeable-tabs": "^2.2.0",
+    "react-video-cover": "^1.2.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
     "eslint": "^8",
-    "eslint-config-next": "14.1.0"
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
   }
 }
